@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\freq_multiplyer_GAZ\Exe\freq_multiplyer_GAZ.out</Path>
+            <Output>
+                <Path>C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\freq_multiplyer_GAZ\List\freq_multiplyer_GAZ.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
