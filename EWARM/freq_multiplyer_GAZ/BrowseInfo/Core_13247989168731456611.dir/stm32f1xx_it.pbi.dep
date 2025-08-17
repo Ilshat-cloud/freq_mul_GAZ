@@ -1,5 +1,5 @@
-C:\Users\user\Documents\freq_mul_GAZ\EWARM\freq_multiplyer_GAZ\BrowseInfo\Core_13247989168731456611.dir\main.pbi: \
-  C:\Users\user\Documents\freq_mul_GAZ\Core\Src\main.c \
+C:\Users\user\Documents\freq_mul_GAZ\EWARM\freq_multiplyer_GAZ\BrowseInfo\Core_13247989168731456611.dir\stm32f1xx_it.pbi: \
+  C:\Users\user\Documents\freq_mul_GAZ\Core\Src\stm32f1xx_it.c \
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\main.h \
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h \
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\stm32f1xx_hal_conf.h \
@@ -34,6 +34,4 @@ C:\Users\user\Documents\freq_mul_GAZ\EWARM\freq_multiplyer_GAZ\BrowseInfo\Core_1
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h \
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h \
   C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h \
-  C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\tim.h \
-  C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\main.h \
-  C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\gpio.h
+  C:\Users\user\Documents\freq_mul_GAZ\EWARM\..\Core\Inc\stm32f1xx_it.h

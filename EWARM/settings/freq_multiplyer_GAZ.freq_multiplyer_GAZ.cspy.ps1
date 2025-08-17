@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.general.xcl" --backend -f "C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\user\Documents\freq_mul_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.general.xcl" --backend -f "C:\Users\user\Documents\freq_mul_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\user\Documents\freq_multiplyer_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\user\Documents\freq_mul_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\user\Documents\freq_mul_GAZ\EWARM\settings\freq_multiplyer_GAZ.freq_multiplyer_GAZ.driver.xcl" 
 }

@@ -116,7 +116,7 @@ int main(void)
       TIM3->CCR4=temp/2;
       HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13);
     }
-    HAL_Delay(50);
+    HAL_Delay(2);
     
   }
   /* USER CODE END 3 */
