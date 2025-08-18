@@ -204,8 +204,13 @@ void SysTick_Handler(void)
 void EXTI4_IRQHandler(void)
 {
   /* USER CODE BEGIN EXTI4_IRQn 0 */
-  current_tim=TIM2->CNT;
+  if(current_tim < 60000) {
+    current_tim=TIM2->CNT;  //пропускаем первое срабатывание прерывания
+  }else{
+    current_tim=1;
+  }
   TIM2->CNT=0;
+
   /* USER CODE END EXTI4_IRQn 0 */
   HAL_GPIO_EXTI_IRQHandler(GPIO_PIN_4);
   /* USER CODE BEGIN EXTI4_IRQn 1 */
